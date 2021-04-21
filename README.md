@@ -5,3 +5,4 @@ Python implementations of some of the fundamental Machine Learning models and al
 - [Batch Gradien descent , Stochastic and Mini batch Gradiant descent](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/BGD%20%26%20Minibatch%20GD.ipynb)
 - [Logistic Regression](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/Logistic_Regression.ipynb)
 - [SVM and Softmax Classifier](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/linear_classifier.py)
+- [KNN](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/knn.py)
