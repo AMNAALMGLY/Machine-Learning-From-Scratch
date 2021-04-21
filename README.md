@@ -9,4 +9,4 @@ Python implementations of some of the fundamental Machine Learning models and al
 - [Unsupervised learning Kmeans clustering](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/UnsupervisedLearning_K_means_Clustering.ipynb)
 - [Unsupervised learning PCA](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/UnsupervisedLearning_PCA.ipynb)
 - [DeepLearning: Covolutional Neural Network forward pass](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/CNN.py)
--[Batch Normalization forward pass](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/BatchNormalization%20forward%20pas.py)
+- [Batch Normalization forward pass](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/BatchNormalization%20forward%20pas.py)
