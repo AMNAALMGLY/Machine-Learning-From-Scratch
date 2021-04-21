@@ -1,6 +1,6 @@
 # Machine-Learning-From-Scratch
-#About
+# About
 Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
-#Implementation
+# Implementation
 - [Batch Gradien descent , Stochastic and Mini batch Gradiant descent]()
-- [Logistic Regression]()
+- [Logistic Regression](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/Logistic_Regression.ipynb)
