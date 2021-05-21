@@ -10,3 +10,5 @@ Python implementations of some of the fundamental Machine Learning models and al
 - [Unsupervised learning PCA](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/UnsupervisedLearning_PCA.ipynb)
 - [DeepLearning: Covolutional Neural Network forward pass](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/CNN.py)
 - [Batch Normalization forward pass](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/BatchNormalization%20forward%20pas.py)
+- [RNN and LSTM forward pass implementation](https://github.com/AMNAALMGLY/Machine-Learning-From-Scratch/blob/main/Building_a_Recurrent_Neural_Network_Step_by_Step%20(1).ipynb)
+- 
